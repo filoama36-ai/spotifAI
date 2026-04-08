@@ -1,0 +1,5 @@
+{
+  "name": "SpotifAI",
+  "description": "AI-powered Spotify playlist generator. Create perfect playlists from simple prompts.",
+  "requestFramePermissions": []
+}
